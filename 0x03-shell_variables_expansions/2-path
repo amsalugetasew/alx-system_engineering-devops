@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREATH**action))
+export PATH = "$PATH:action"
